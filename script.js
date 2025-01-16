@@ -1,0 +1,1 @@
+const angka = 10
