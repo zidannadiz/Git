@@ -5,4 +5,4 @@ if(login === "Admin") {
 } else {
   console.log("Tidak Bisa Masuk Karena Tidak Memenuhi Syarat")
 }
-let y = 4
+let y = 400
